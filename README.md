@@ -118,7 +118,7 @@ Presents strategic business insights and recommendations:
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](screenshots/Executive_Overview.png)
+![Executive Overview](screenshots/executive_overview.png)
 
 ---
 
