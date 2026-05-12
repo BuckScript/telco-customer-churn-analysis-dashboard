@@ -118,27 +118,27 @@ Presents strategic business insights and recommendations:
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](screenshots/Executive%20Overview.png)
+![Executive Overview](screenshots/Executive_Overview.png)
 
 ---
 
 ### Customer Analytics
-![Customer Analytics](screenshots/Customer%20Analytics.png)
+![Customer Analytics](screenshots/Customer_Analytics.png)
 
 ---
 
 ### Customer Churn Analytics
-![Customer Churn Analytics](screenshots/Customer%20Churn%20Analytics.png)
+![Customer Churn Analytics](screenshots/Customer_Churn%20Analytics.png)
 
 ---
 
 ### Revenue Intelligence
-![Revenue Intelligence](screenshots/Revenue%20Intelligence.png)
+![Revenue Intelligence](screenshots/Revenue_Intelligence.png)
 
 ---
 
 ### Business Recommendation
-![Business Recommendation](screenshots/Business%20Recomendation.png)
+![Business Recommendation](screenshots/Business_Recomendation.png)
 
 ---
 
